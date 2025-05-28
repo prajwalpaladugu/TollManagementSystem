@@ -1,4 +1,3 @@
-# TollManagementSystem
 # Toll Management System using Blockchain
 
 ## Overview
